@@ -34,3 +34,14 @@ src/objectTranslations/*
 src/sites/*
 src/siteDotComSites/*
 src/package.xml
+
+
+classes/copado__*
+triggers/copado__*
+pages/copado__*
+installedPackages/*
+translations/*
+objectTranslations/*
+sites/*
+siteDotComSites/*
+package.xml
